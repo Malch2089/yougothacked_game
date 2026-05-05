@@ -1,3 +1,9 @@
 # yougothacked_game
 a conceptual cli based game where the program gives feels of a fake terminal which hacker uses to interact with the user. User have to perform a few tasks to get rid of the hacker. Note this is a concept game therfore, the puzzles are not polished but I can clearly provide an idea what the program want's to do
-[dist/main.exe](dist/main.exe)
+
+# YouGotHacked Game
+
+## Quick Start
+Download the latest version: [main.exe](https://github.com/Malch2089/yougothacked_game/releases/latest)
+
+Or download from [Releases](https://github.com/Malch2089/yougothacked_game/releases)
